@@ -1,0 +1,175 @@
+/* body {
+  background-color: #e8f9fd;
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+h1 {
+  color: #2b6d88;
+  font-size: 2.4rem;
+  font-weight: bolder;
+}
+
+section {
+  width: 100%;
+  margin: auto;
+}
+
+h2 {
+  color: #2b6d88;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+hr {
+  border: dotted #addae4 10px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+  background-color: #ffffff00;
+  opacity: 1;
+  box-sizing: content-box;
+}
+
+table {
+  margin: 0 auto;
+  text-align: left;
+}
+
+th {
+  padding: 0;
+}
+
+td {
+  padding: 0 20px 0 0;
+}
+
+li,
+p,
+td {
+  line-height: 2;
+}
+
+footer {
+  display: flexbox;
+  text-align: center;
+  background-color: #064c68;
+  padding: 50px 0 20px;
+  margin-top: 100px;
+}
+
+.h1 {
+  text-align: center;
+}
+
+.profile {
+  width: 350px;
+  margin: 0 auto;
+  text-align: left;
+  padding-top: 50px;
+}
+
+@media screen and (min-width: 600px) {
+  .profile {
+    width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 100px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .profile {
+    width: 980px;
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 100px;
+  }
+}
+
+.nav-container {
+  padding-right: 20px;
+  background-color: #e8f9fd;
+  border-bottom: dotted #c8e8f0 10px;
+}
+
+.nav-item {
+  width: 200px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #2b6d88;
+  font-family: "poppins";
+  font-weight: bolder;
+  text-align: left;
+  opacity: 1;
+  padding-left: 10px;
+}
+
+.profile-pic {
+  width: 16rem;
+  float: left;
+  margin: 0 50px;
+  padding: 0;
+}
+
+.intro-link {
+  color: #2b6d88;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.intro-link:hover {
+  color: #6bcaf0;
+}
+
+.row {
+  max-width: 100%;
+}
+
+.teach {
+  margin: 0 auto;
+  width: 380px;
+}
+
+.tech {
+  padding-top: 10px;
+}
+
+.work-date {
+  color: #064c68;
+  padding-top: 5px;
+}
+
+.work-job {
+  padding-top: 5px;
+}
+
+.stars {
+  color: #2b6d88;
+}
+
+.umich {
+  list-style-type: none;
+}
+
+.footer-link {
+  color: #ffffff;
+  font-family: "poppins";
+  padding: 2%;
+  text-decoration: none;
+  font-family: "poppins";
+}
+
+.footer-link:hover {
+  color: #addae4;
+}
+
+.copyright {
+  color: #addae4;
+  font-size: 0.85rem;
+  margin: 20px;
+  font-family: "poppins";
+}
+*/
